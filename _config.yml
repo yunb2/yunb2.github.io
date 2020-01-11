@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "YUNB2LOG"
+title                    : "💻YUNB2LOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YUNBYEONG CHAE"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "YUNBYEONG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "South Korea"
